@@ -1,0 +1,23 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  background-color: rgb(51, 51, 51);
+}
+
+canvas {
+  display: block;
+}
+
+.text {
+  color: rgb(255, 255, 255);
+  font-size: 15pt;
+}
+
+#word {
+  text-align: center;
+  font-size: 30pt;
+}
+
+.input {
+  text-align: center;
+}
